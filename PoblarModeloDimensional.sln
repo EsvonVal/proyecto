@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "PoblarModeloDimensional", "PoblarModeloDimensional\PoblarModeloDimensional.dtproj", "{CDD437F7-9AAF-44B3-9CD4-3498319DDCD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD437F7-9AAF-44B3-9CD4-3498319DDCD1}.Development|Default.ActiveCfg = Development
+		{CDD437F7-9AAF-44B3-9CD4-3498319DDCD1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BD1694F-4A02-4548-B60C-7585584DB7E0}
+	EndGlobalSection
+EndGlobal
